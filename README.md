@@ -1,5 +1,5 @@
 - I’m @LouieMiddle
-- Current final year University of Bath student
+- University of Bath Graduate in Computer Science
 - Former placement at Hawk-Eye Innovations
 - Dissertation on using Gaussian processes to predict cricket delivery outcomes
 - Specialities with Java and Spring Boot services on ECS
