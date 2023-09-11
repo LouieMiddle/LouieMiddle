@@ -1,6 +1,7 @@
 - I’m @LouieMiddle
+- Former work account @LouieMiddleHawkeye
 - University of Bath Graduate in Computer Science
 - Former placement at Hawk-Eye Innovations
-- Dissertation on using Gaussian processes to predict cricket delivery outcomes
+- Dissertation: Cricket Delivery Outcome Prediction Using XGBoost and Mixtures of Gaussian Processes: An Exploration of Model Performance
 - Specialities with Java and Spring Boot services on ECS
 - Experience with terraform in building AWS deployments
